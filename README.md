@@ -31,7 +31,9 @@ Sección para acceder al formulario de contacto para agendar alguna cita.
 Se configuró un diseño responsivo para adaptar el contenido de la página web a pantallas ya sea tablet ó móvil.
 
 ![home-device](https://user-images.githubusercontent.com/129416149/236360713-6e527526-d805-4e36-9ac3-668dd9a8d4c3.png)
+
 ![products-device](https://user-images.githubusercontent.com/129416149/236360726-3ca00125-89dc-4b79-b896-32c54bf460d1.png)
+
 ![contact-device](https://user-images.githubusercontent.com/129416149/236360742-c66f73dd-7a0b-4e63-ab1a-3a7f67190e93.png)
 
 
